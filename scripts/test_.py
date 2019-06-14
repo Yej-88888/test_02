@@ -1,9 +1,9 @@
 class Testlogin:
     def test_hello_001(self):
-        assert 1
+        assert 0
 
     def test_hello_002(self):
-        assert 1
+        assert 0
 
     def test_hello_003(self):
         assert 1

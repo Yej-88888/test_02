@@ -1,37 +1,57 @@
-<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1560482567315" stop="1560482567325">
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1560493197799" stop="1560493197869">
   <name>scripts</name>
   <labels/>
   <test-cases>
-    <test-case start="1560482567315" status="passed" stop="1560482567319">
+    <test-case start="1560493197799" status="failed" stop="1560493197860">
       <name>C:\Users\苑瑞\Desktop\lianxi\test_day5\scripts.test_.Testlogin.test_hello_001</name>
+      <failure>
+        <message>AssertionError: assert 0</message>
+        <stack-trace>self = &lt;scripts.test_.Testlogin object at 0x0000021F32A25C50&gt;
+
+    def test_hello_001(self):
+&gt;       assert 0
+E       assert 0
+
+scripts\test_.py:3: AssertionError</stack-trace>
+      </failure>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="5796-MainThread"/>
+        <label name="thread" value="26668-MainThread"/>
         <label name="host" value="DESKTOP-FRP4UEH"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1560482567319" status="passed" stop="1560482567319">
+    <test-case start="1560493197866" status="failed" stop="1560493197869">
       <name>C:\Users\苑瑞\Desktop\lianxi\test_day5\scripts.test_.Testlogin.test_hello_002</name>
+      <failure>
+        <message>AssertionError: assert 0</message>
+        <stack-trace>self = &lt;scripts.test_.Testlogin object at 0x0000021F32A47978&gt;
+
+    def test_hello_002(self):
+&gt;       assert 0
+E       assert 0
+
+scripts\test_.py:6: AssertionError</stack-trace>
+      </failure>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="5796-MainThread"/>
+        <label name="thread" value="26668-MainThread"/>
         <label name="host" value="DESKTOP-FRP4UEH"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
       </labels>
       <steps/>
     </test-case>
-    <test-case start="1560482567325" status="passed" stop="1560482567325">
+    <test-case start="1560493197869" status="passed" stop="1560493197869">
       <name>C:\Users\苑瑞\Desktop\lianxi\test_day5\scripts.test_.Testlogin.test_hello_003</name>
       <attachments/>
       <labels>
         <label name="severity" value="normal"/>
-        <label name="thread" value="5796-MainThread"/>
+        <label name="thread" value="26668-MainThread"/>
         <label name="host" value="DESKTOP-FRP4UEH"/>
         <label name="framework" value="pytest"/>
         <label name="language" value="cpython3"/>
