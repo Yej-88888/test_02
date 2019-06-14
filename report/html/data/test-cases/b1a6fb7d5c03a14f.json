@@ -1,0 +1,60 @@
+{
+  "uid" : "b1a6fb7d5c03a14f",
+  "name" : "C:\\Users\\苑瑞\\Desktop\\lianxi\\test_day5\\scripts.test_.Testlogin.test_hello_002",
+  "fullName" : "scripts.C:\\Users\\苑瑞\\Desktop\\lianxi\\test_day5\\scripts.test_.Testlogin.test_hello_002",
+  "historyId" : "69b11aec234ee45cc85ea1d1b0f92b06",
+  "time" : {
+    "start" : 1560477434801,
+    "stop" : 1560477434801,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-FRP4UEH"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "9184-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "C:\\Users\\苑瑞\\Desktop\\lianxi\\test_day5\\scripts.test_.Testlogin.test_hello_002"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b1a6fb7d5c03a14f.json",
+  "parameterValues" : [ ]
+}

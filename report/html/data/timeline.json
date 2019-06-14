@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-FRP4UEH",
+    "children" : [ {
+      "name" : "9184-MainThread",
+      "children" : [ {
+        "name" : "C:\\Users\\苑瑞\\Desktop\\lianxi\\test_day5\\scripts.test_.Testlogin.test_hello_002",
+        "uid" : "b1a6fb7d5c03a14f",
+        "parentUid" : "82d05fbc3fc0300f38040ced01e5b22a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1560477434801,
+          "stop" : 1560477434801,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "C:\\Users\\苑瑞\\Desktop\\lianxi\\test_day5\\scripts.test_.Testlogin.test_hello_001",
+        "uid" : "288c232883e8a4a4",
+        "parentUid" : "82d05fbc3fc0300f38040ced01e5b22a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1560477434710,
+          "stop" : 1560477434801,
+          "duration" : 91
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "C:\\Users\\苑瑞\\Desktop\\lianxi\\test_day5\\scripts.test_.Testlogin.test_hello_003",
+        "uid" : "f01e027cb98f783c",
+        "parentUid" : "82d05fbc3fc0300f38040ced01e5b22a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1560477434801,
+          "stop" : 1560477434801,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "82d05fbc3fc0300f38040ced01e5b22a"
+    } ],
+    "uid" : "eb5b517c9d8d6aa43e7b9075197be8cb"
+  } ]
+}

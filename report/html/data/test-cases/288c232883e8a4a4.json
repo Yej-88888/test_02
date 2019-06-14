@@ -1,0 +1,66 @@
+{
+  "uid" : "288c232883e8a4a4",
+  "name" : "C:\\Users\\苑瑞\\Desktop\\lianxi\\test_day5\\scripts.test_.Testlogin.test_hello_001",
+  "fullName" : "scripts.C:\\Users\\苑瑞\\Desktop\\lianxi\\test_day5\\scripts.test_.Testlogin.test_hello_001",
+  "historyId" : "5ade3b61b4d2406c27d0c144d8e9ae92",
+  "time" : {
+    "start" : 1560477434710,
+    "stop" : 1560477434801,
+    "duration" : 91
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "self = <scripts.test_.Testlogin object at 0x0000027D97886E48>\n\n    def test_hello_001(self):\n>       assert 0\nE       assert 0\n\nscripts\\test_.py:3: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-FRP4UEH"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "9184-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "C:\\Users\\苑瑞\\Desktop\\lianxi\\test_day5\\scripts.test_.Testlogin.test_hello_001"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "288c232883e8a4a4.json",
+  "parameterValues" : [ ]
+}

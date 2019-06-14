@@ -1,0 +1,41 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "C:\\Users\\苑瑞\\Desktop\\lianxi\\test_day5\\scripts.test_.Testlogin.test_hello_001",
+    "uid" : "288c232883e8a4a4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1560477434710,
+      "stop" : 1560477434801,
+      "duration" : 91
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C:\\Users\\苑瑞\\Desktop\\lianxi\\test_day5\\scripts.test_.Testlogin.test_hello_002",
+    "uid" : "b1a6fb7d5c03a14f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1560477434801,
+      "stop" : 1560477434801,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "C:\\Users\\苑瑞\\Desktop\\lianxi\\test_day5\\scripts.test_.Testlogin.test_hello_003",
+    "uid" : "f01e027cb98f783c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1560477434801,
+      "stop" : 1560477434801,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}
